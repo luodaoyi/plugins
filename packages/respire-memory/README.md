@@ -72,3 +72,5 @@ This repository publishes through its own publish.yml and dist branch. npm first
 The upstream reports describe that upstream revision and installation; they are not CI evidence for this community package. They are linked rather than repackaged. See this PR's current checks and the local test entry above for this contribution.
 
 MIT; see LICENSE and NOTICE. Feedback: [upstream issues](https://github.com/risense-ai/respire-magpie/issues).
+
+<!-- Owned-fork PR-update validation fixture; never submit this marker upstream. -->
